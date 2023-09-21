@@ -23,14 +23,24 @@
             "id": "1ae510b5241e6d33",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "img/Pasted image 20230921162351.png"
+              }
+            }
+          },
+          {
+            "id": "e67a84721ef8e214",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "목록에서 상세 페이지 전환하게 하기"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSAFY/Front/230925 시험.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSAFY/Front/230925 시험.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SSAFY/Front/230925 시험.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,30 +172,40 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c5a91a3e35466675",
+  "active": "e67a84721ef8e214",
   "lastOpenFiles": [
+    "로그인 페이지 제작/구조.md",
+    "로그인 페이지 제작/기타.md",
     "SSAFY/Front/시험.md",
     "SSAFY/Front/230925 시험.md",
+    "SSAFY/Algorithm/재귀.md",
+    "SSAFY/Algorithm/알고리즘.md",
+    "SSAFY/Algorithm/Algorithm.md",
+    "img/Pasted image 20230921110011.png",
+    "img/Pasted image 20230921162351.png",
+    "img/Pasted image 20230915134504.png",
+    "목록에서 상세 페이지 전환하게 하기/교수님이 짜준 코드.md",
+    "img",
+    "목록에서 상세 페이지 전환하게 하기/페어랑 열심히 짠 코드.md",
+    "로그인 페이지 제작/로그인 페이지 제작.md",
+    "img/Pasted image 20230921150914.png",
+    "img/Pasted image 20230921150858.png",
+    "목록에서 상세 페이지 전환하게 하기/목록에서 상세 페이지 전환하게 하기.md",
+    "목록에서 상세 페이지 전환하게 하기",
     "SSAFY/SSAFY.md",
     "필기노트/필기노트.md",
     "필기노트/졸려.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
-    "SSAFY/Algorithm/재귀.md",
-    "SSAFY/Algorithm/알고리즘.md",
     "로그인 페이지 제작/Servlet.md",
-    "로그인 페이지 제작/구조.md",
     "로그인 페이지 제작/service.md",
     "로그인 페이지 제작/jsp.md",
-    "Pasted image 20230921110011.png",
     "로그인 페이지 제작/UserDto.md",
     "로그인 페이지 제작/DBManager.md",
     "로그인 페이지 제작/dao.md",
-    "로그인 페이지 제작/기타.md",
     "mysql-connector-j-8.0.33.jar",
     "gson-2.10.jar",
-    "Pasted image 20230915134504.png",
-    "Pasted image 20230915134517.png",
+    "img/Pasted image 20230915134517.png",
     "JSP nav.md",
     "로그인 페이지 제작",
     "SSAFY/Front",
@@ -201,7 +217,6 @@
     "Context",
     "SSAFY",
     "2023-09-15.md",
-    "필기노트",
     "Untitled.canvas"
   ]
 }
