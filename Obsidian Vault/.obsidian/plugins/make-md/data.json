@@ -38,7 +38,12 @@
     "Obsidian Vault": [
       "필기노트",
       "SSAFY",
-      "목록에서 상세 페이지 전환하게 하기"
+      "목록에서 상세 페이지 전환하게 하기",
+      "목록",
+      "목록에서 상세 페이지 전환하게 하기",
+      "SSAFY/Front",
+      "SSAFY/목록에서 상세 페이지 전환하게 하기",
+      "SSAFY/목록에서 상세 페이지 전환하게 하기"
     ]
   },
   "expandedSpaces": [
@@ -76,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695284469546,
+  "spacesAutoBackupLast": 1695305065516,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

@@ -33,9 +33,11 @@
             "id": "e67a84721ef8e214",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "목록에서 상세 페이지 전환하게 하기"
+                "file": "SSAFY/목록에서 상세 페이지 전환하게 하기/페어랑 열심히 짠 코드.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -115,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SSAFY/목록에서 상세 페이지 전환하게 하기/페어랑 열심히 짠 코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SSAFY/목록에서 상세 페이지 전환하게 하기/페어랑 열심히 짠 코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SSAFY/목록에서 상세 페이지 전환하게 하기/페어랑 열심히 짠 코드.md"
+              }
             }
           }
         ]
@@ -164,18 +170,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "e67a84721ef8e214",
   "lastOpenFiles": [
-    "로그인 페이지 제작/구조.md",
-    "로그인 페이지 제작/기타.md",
+    "SSAFY/목록에서 상세 페이지 전환하게 하기/교수님이 짜준 코드.md",
+    "SSAFY/목록에서 상세 페이지 전환하게 하기/페어랑 열심히 짠 코드.md",
+    "목록/목록.md",
+    "SSAFY/로그인 페이지 제작/기타.md",
+    "목록",
+    "Untitled.md",
+    "SSAFY/로그인 페이지 제작/구조.md",
     "SSAFY/Front/시험.md",
     "SSAFY/Front/230925 시험.md",
     "SSAFY/Algorithm/재귀.md",
@@ -184,30 +195,28 @@
     "img/Pasted image 20230921110011.png",
     "img/Pasted image 20230921162351.png",
     "img/Pasted image 20230915134504.png",
-    "목록에서 상세 페이지 전환하게 하기/교수님이 짜준 코드.md",
     "img",
-    "목록에서 상세 페이지 전환하게 하기/페어랑 열심히 짠 코드.md",
-    "로그인 페이지 제작/로그인 페이지 제작.md",
+    "SSAFY/로그인 페이지 제작/로그인 페이지 제작.md",
     "img/Pasted image 20230921150914.png",
     "img/Pasted image 20230921150858.png",
-    "목록에서 상세 페이지 전환하게 하기/목록에서 상세 페이지 전환하게 하기.md",
-    "목록에서 상세 페이지 전환하게 하기",
+    "SSAFY/목록에서 상세 페이지 전환하게 하기/목록에서 상세 페이지 전환하게 하기.md",
+    "SSAFY/목록에서 상세 페이지 전환하게 하기",
     "SSAFY/SSAFY.md",
     "필기노트/필기노트.md",
     "필기노트/졸려.md",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
-    "로그인 페이지 제작/Servlet.md",
-    "로그인 페이지 제작/service.md",
-    "로그인 페이지 제작/jsp.md",
-    "로그인 페이지 제작/UserDto.md",
-    "로그인 페이지 제작/DBManager.md",
-    "로그인 페이지 제작/dao.md",
+    "SSAFY/로그인 페이지 제작/Servlet.md",
+    "SSAFY/로그인 페이지 제작/service.md",
+    "SSAFY/로그인 페이지 제작/jsp.md",
+    "SSAFY/로그인 페이지 제작/UserDto.md",
+    "SSAFY/로그인 페이지 제작/DBManager.md",
+    "SSAFY/로그인 페이지 제작/dao.md",
     "mysql-connector-j-8.0.33.jar",
     "gson-2.10.jar",
     "img/Pasted image 20230915134517.png",
     "JSP nav.md",
-    "로그인 페이지 제작",
+    "SSAFY/로그인 페이지 제작",
     "SSAFY/Front",
     "SSAFY/무제 파일 1.md",
     "SSAFY/무제 파일.md",
@@ -215,8 +224,6 @@
     "SSAFY/readme.md",
     "Context/spacesLastSync.log",
     "Context",
-    "SSAFY",
-    "2023-09-15.md",
     "Untitled.canvas"
   ]
 }
