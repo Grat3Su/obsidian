@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"212841dccae32c1e","x":-160,"y":-240,"width":400,"height":400,"type":"file","file":"SSAFY/Algorithm/알고리즘.md"},
+		{"id":"931be5c826b0f938","x":-760,"y":360,"width":400,"height":400,"type":"file","file":"SSAFY/Algorithm/재귀.md"}
+	],
+	"edges":[
+		{"id":"dc6282334b622062","fromNode":"212841dccae32c1e","fromSide":"bottom","toNode":"931be5c826b0f938","toSide":"top"}
+	]
+}

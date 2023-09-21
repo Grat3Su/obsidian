@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "2a73dd21357a1fbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a20606422a3b16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52e563574da27419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSAFY/Front/230925 시험.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ae510b5241e6d33",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8b72a003ec3005c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3167e9e876fb7819",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bfd8573c6f99937",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce454bb4a30c4799",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1e664f189c25507",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5a91a3e35466675",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "1fab18646f889eb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc81e5c625ee6a3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8791ad343461ec0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SSAFY/Front/230925 시험.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b5ba8aeecc1fb43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SSAFY/Front/230925 시험.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e34a851ecb58f4cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f5fec205e8c166f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SSAFY/Front/230925 시험.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "c5a91a3e35466675",
+  "lastOpenFiles": [
+    "SSAFY/Front/시험.md",
+    "SSAFY/Front/230925 시험.md",
+    "SSAFY/SSAFY.md",
+    "필기노트/필기노트.md",
+    "필기노트/졸려.md",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "SSAFY/Algorithm/재귀.md",
+    "SSAFY/Algorithm/알고리즘.md",
+    "로그인 페이지 제작/Servlet.md",
+    "로그인 페이지 제작/구조.md",
+    "로그인 페이지 제작/service.md",
+    "로그인 페이지 제작/jsp.md",
+    "Pasted image 20230921110011.png",
+    "로그인 페이지 제작/UserDto.md",
+    "로그인 페이지 제작/DBManager.md",
+    "로그인 페이지 제작/dao.md",
+    "로그인 페이지 제작/기타.md",
+    "mysql-connector-j-8.0.33.jar",
+    "gson-2.10.jar",
+    "Pasted image 20230915134504.png",
+    "Pasted image 20230915134517.png",
+    "JSP nav.md",
+    "로그인 페이지 제작",
+    "SSAFY/Front",
+    "SSAFY/무제 파일 1.md",
+    "SSAFY/무제 파일.md",
+    "SSAFY/Algorithm",
+    "SSAFY/readme.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "SSAFY",
+    "2023-09-15.md",
+    "필기노트",
+    "Untitled.canvas"
+  ]
+}
