@@ -43,6 +43,7 @@
       "목록에서 상세 페이지 전환하게 하기",
       "SSAFY/Front",
       "SSAFY/목록에서 상세 페이지 전환하게 하기",
+      "SSAFY/목록에서 상세 페이지 전환하게 하기",
       "SSAFY/목록에서 상세 페이지 전환하게 하기"
     ]
   },
@@ -81,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695305065516,
+  "spacesAutoBackupLast": 1695373449836,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
