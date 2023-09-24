@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSAFY/Front/230925 시험.md",
+                "file": "SSAFY/시험대비/230925 시험.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSAFY/로그인 페이지 제작/기타.md",
+                "file": "SSAFY/시험대비/2023-09-05/시험대비...md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSAFY/로그인 페이지 제작/기타.md",
+                "file": "SSAFY/시험대비/2023-09-05/시험대비...md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSAFY/로그인 페이지 제작/기타.md",
+                "file": "SSAFY/시험대비/2023-09-05/시험대비...md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSAFY/로그인 페이지 제작/기타.md"
+                "file": "SSAFY/시험대비/2023-09-05/시험대비...md"
               }
             }
           }
@@ -180,17 +180,22 @@
   },
   "active": "e67a84721ef8e214",
   "lastOpenFiles": [
-    "SSAFY/Front/230925 시험.md",
+    "SSAFY/시험대비/2023-09-05/dto.md",
+    "SSAFY/시험대비/2023-09-05/시험대비...md",
+    "SSAFY/시험대비/230925 시험.md",
+    "SSAFY/시험대비/2023-09-05",
+    "SSAFY/시험대비/시험대비.md",
+    "SSAFY/시험대비/시험.md",
+    "SSAFY/시험대비/Front.md",
+    "SSAFY/로그인 페이지 제작/기타.md",
     "gson-2.10.jar",
     "Pasted image 20230922180417.png",
     "Pasted image 20230922180408.png",
     "SSAFY/게시판 만들깅",
-    "SSAFY/Front/시험.md",
     "SSAFY/목록에서 상세 페이지 전환하게 하기/교수님이 짜준 코드.md",
     "SSAFY/목록에서 상세 페이지 전환하게 하기/페어랑 열심히 짠 코드.md",
     "SSAFY/로그인 페이지 제작/dao.md",
     "목록/목록.md",
-    "SSAFY/로그인 페이지 제작/기타.md",
     "목록",
     "Untitled.md",
     "SSAFY/로그인 페이지 제작/구조.md",
@@ -218,13 +223,9 @@
     "SSAFY/로그인 페이지 제작/DBManager.md",
     "mysql-connector-j-8.0.33.jar",
     "img/Pasted image 20230915134517.png",
-    "JSP nav.md",
     "SSAFY/로그인 페이지 제작",
-    "SSAFY/Front",
-    "SSAFY/무제 파일 1.md",
-    "SSAFY/무제 파일.md",
+    "SSAFY/시험대비",
     "SSAFY/Algorithm",
-    "Context/spacesLastSync.log",
     "Untitled.canvas"
   ]
 }

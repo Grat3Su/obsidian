@@ -45,7 +45,11 @@
       "SSAFY/목록에서 상세 페이지 전환하게 하기",
       "SSAFY/목록에서 상세 페이지 전환하게 하기",
       "SSAFY/목록에서 상세 페이지 전환하게 하기",
-      "SSAFY/로그인 페이지 제작"
+      "SSAFY/로그인 페이지 제작",
+      "SSAFY",
+      "SSAFY/Front",
+      "SSAFY/Front",
+      "SSAFY/시험대비"
     ]
   },
   "expandedSpaces": [
@@ -83,7 +87,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695462026082,
+  "spacesAutoBackupLast": 1695567422568,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
