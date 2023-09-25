@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSAFY/시험대비/2023-09-05/시험대비...md",
+                "file": "SSAFY/Algorithm/DP.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "right": {
     "id": "1fab18646f889eb6",
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSAFY/시험대비/2023-09-05/시험대비...md",
+                "file": "SSAFY/Algorithm/DP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSAFY/시험대비/2023-09-05/시험대비...md",
+                "file": "SSAFY/Algorithm/DP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSAFY/시험대비/2023-09-05/시험대비...md"
+                "file": "SSAFY/Algorithm/DP.md"
               }
             }
           }
@@ -170,18 +171,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "e67a84721ef8e214",
   "lastOpenFiles": [
-    "SSAFY/시험대비/2023-09-05/dto.md",
+    "SSAFY/Algorithm/DP.md",
     "SSAFY/시험대비/2023-09-05/시험대비...md",
+    "SSAFY/시험대비/2023-09-05/dto.md",
     "SSAFY/시험대비/230925 시험.md",
     "SSAFY/시험대비/2023-09-05",
     "SSAFY/시험대비/시험대비.md",
@@ -220,7 +222,6 @@
     "SSAFY/로그인 페이지 제작/service.md",
     "SSAFY/로그인 페이지 제작/jsp.md",
     "SSAFY/로그인 페이지 제작/UserDto.md",
-    "SSAFY/로그인 페이지 제작/DBManager.md",
     "mysql-connector-j-8.0.33.jar",
     "img/Pasted image 20230915134517.png",
     "SSAFY/로그인 페이지 제작",

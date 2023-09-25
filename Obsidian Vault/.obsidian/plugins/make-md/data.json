@@ -49,7 +49,9 @@
       "SSAFY",
       "SSAFY/Front",
       "SSAFY/Front",
-      "SSAFY/시험대비"
+      "필기노트",
+      "SSAFY",
+      "SSAFY/Algorithm"
     ]
   },
   "expandedSpaces": [
@@ -87,7 +89,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695567422568,
+  "spacesAutoBackupLast": 1695618444080,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
